@@ -15,6 +15,6 @@ Automation engine settings
 * Action run script DM/PUBLIC
 (for DM messages use RULE number comparison and "is a direct message" true)
 * Script CLI arguments
-* --snr "{{ trigger.snr }}" --rssi "{{ trigger.rssi }}" --hops "{{ trigger.hops }}" --fromName "{{ trigger.fromName }}" --text "{{ trigger.text }}"
+ --snr "{{ trigger.snr }}" --rssi "{{ trigger.rssi }}" --hops "{{ trigger.hops }}" --fromName "{{ trigger.fromName }}" --text "{{ trigger.text }}"
 
 ![Screenshot of RULE](Rule.png)
