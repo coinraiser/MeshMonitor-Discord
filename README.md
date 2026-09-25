@@ -1,3 +1,5 @@
+![Screenshot of PUBLIC message](Public message.png)
+
 Direct/PUBLIC messages
 
 * Place files in \AppData\Roaming\MeshMonitor\scripts
