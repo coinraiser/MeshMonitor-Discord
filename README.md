@@ -9,6 +9,7 @@ Automation engine settings
 
 * Trigger - A message is received
 * Action run script DM/PUBLIC
-(for DM messages use rule number comparison and "is a direct message" true)
+(for DM messages use RULE number comparison and "is a direct message" true)
 * Script CLI arguments
 * --snr "{{ trigger.snr }}" --rssi "{{ trigger.rssi }}" --hops "{{ trigger.hops }}" --fromName "{{ trigger.fromName }}" --text "{{ trigger.text }}"
+![Screenshot of RULE](rule.png)
