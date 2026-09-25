@@ -1,3 +1,5 @@
+# Discord Direct/PUBLIC messages
+
 ![Screenshot of PUBLIC message](Public message.png)
 
 Direct/PUBLIC messages
