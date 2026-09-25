@@ -18,4 +18,8 @@ Automation engine settings
 
  --snr "{{ trigger.snr }}" --rssi "{{ trigger.rssi }}" --hops "{{ trigger.hops }}" --fromName "{{ trigger.fromName }}" --text "{{ trigger.text }}"
 
+![Screenshot of TRIGGER](Trigger.png)
+
+![Screenshot of ACTION](Action.png)
+
 ![Screenshot of RULE](Rule.png)
