@@ -13,4 +13,4 @@ Automation engine settings
 * Script CLI arguments
 * --snr "{{ trigger.snr }}" --rssi "{{ trigger.rssi }}" --hops "{{ trigger.hops }}" --fromName "{{ trigger.fromName }}" --text "{{ trigger.text }}"
 
-![Screenshot of RULE](rule.png)
+![Screenshot of RULE](Rule.png)
