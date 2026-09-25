@@ -4,7 +4,6 @@
 //   emoji: 👀
 //   language: JavaScript
 //   version: 2.0.1
-//   source: https://github.com/coinraiser/MeshMonitor-Discord/blob/main/Discord_Webhook_PUBLIC.js
 
 const path = require('path');
 require('dotenv').config({ path: path.join(__dirname, '.env') });
